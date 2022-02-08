@@ -21,7 +21,7 @@
 
 ## 🔸 기술 스택
 - Tool : Android
-- anguage : Kotlin, JAVA
+- Language : Kotlin, JAVA
 - API : NAVER MAP API
   
 <br/>
